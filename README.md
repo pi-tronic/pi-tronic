@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am a student of Applied Informatics in Germany.
+
+Check out my cool projects and don’t forget my github organisation [@Turbo-Turtles](https://github.com/Turbo-Turtles)
+
 <!--
 **pi-tronic/pi-tronic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
