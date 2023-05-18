@@ -2,7 +2,9 @@
 
 I am a student of Applied Informatics in Germany.
 
-Check out my cool projects and don’t forget my github organisation [@Turbo-Turtles](https://github.com/Turbo-Turtles)
+Check out my cool projects and don’t forget my github organisation [@Turbo-Turtles](https://github.com/Turbo-Turtles).
+
+There I am currently working with ROS2 and the TurtleBot3 to create an autonomous driving bot performing the AutoRace 2020 track.
 
 <!--
 **pi-tronic/pi-tronic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
